@@ -1,7 +1,7 @@
 # Modeling
 
 Gaussian linear models are often insufficient in practical applications, where noise can be heavytailed.
-In this problem, we consider a linear model of the form yi = a  xi + b + ei. The (ei) are
+In this problem, we consider a linear model of the form yi = a xi + b + ei. The (ei) are
 independent noise from a distribution that depends on x as well as on global parameters; however,
 the noise distribution has conditional mean zero given x. The goal is to derive a good estimator for
 the parameters a and b based on a sample of observed (x; y) pairs.
