@@ -15,4 +15,4 @@ parameters needed for your model.
 4. Solve a suitable optimization problem, corresponding to your chosen loss function, to obtain
 point estimates for the model parameters.
 5. Formulate and carry out an assessment of the quality of your parameter estimates.
-6. Try additional models if necessary, repeating steps 2 􀀀 5.
+6. Try additional models if necessary, repeating steps 2 - 5.
