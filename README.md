@@ -1,4 +1,4 @@
-# Modeling
+# Modeling By Ela
 
 Gaussian linear models are often insufficient in practical applications, where noise can be heavytailed.
 In this problem, we consider a linear model of the form yi = a xi + b + ei. The (ei) are
